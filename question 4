@@ -1,4 +1,4 @@
-legth = float(input("Enter the legth of the rectangle: "))
+length = float(input("Enter the legth of the rectangle: "))
 width = float(input("Enetr the width of the rectangle: "))
 
 area = legth * width
